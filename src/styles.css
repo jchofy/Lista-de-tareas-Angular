@@ -1,0 +1,40 @@
+/* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+
+.activado{
+    background-color: rgb(72, 204, 42);
+    color: white;
+    
+}
+
+li{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    padding-left: 2em;
+    padding-right: 2em;
+    border-radius: 0.5em;
+    margin-top: 0.5em;
+    box-shadow: rgba(0, 0, 0, 0.086) 0px 10px 20px, rgba(0, 0, 0, 0.108) 0px 6px 6px;
+}
+
+li img{
+    margin-left: 0.5em;
+}
+
+ul{
+    min-width: 80%;
+    max-width: 80%;
+}
+
+.descrip{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 14pt;
+}
+
+.borrar{
+    background-color: red;
+}

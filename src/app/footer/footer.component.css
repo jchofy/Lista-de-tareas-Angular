@@ -1,0 +1,15 @@
+p{
+    background-color: grey;
+    font-size: 1em;
+    text-align: center;
+    bottom: 0;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    bottom: 0;
+    padding: 1.5em;
+    width: 95%;
+
+}
+div{
+    display: flex;
+justify-content: center;}

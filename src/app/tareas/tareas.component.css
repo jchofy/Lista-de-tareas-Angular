@@ -1,0 +1,43 @@
+div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.aniadir label{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    width: 60%;
+}
+button{
+    width: 100%;
+    padding: 1em;
+    border-radius: 0.5em;
+    border: none;
+    background-color: rgb(31, 150, 51);
+    color: white;
+    margin-top: 1em;
+}
+
+input{
+    width: 90%;
+    padding: 0.5em;
+    margin-bottom: 0.5em;
+}
+
+ul{
+    padding-inline-start: 0px;
+    font-family: 'Roboto', sans-serif;
+   
+}
+
+.borrar{
+    background-color: red;
+
+}
+
+
+
+
+
